@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Dash Board"
+        android:id="@+id/dashBoardNavItemId"
+        android:icon="@drawable/ic_dashboard_black_24dp"></item>
+    <item
+        android:title="Expenses"
+        android:id="@+id/expensesNavItemId"
+        android:icon="@drawable/tk_sign"></item>
+</menu>

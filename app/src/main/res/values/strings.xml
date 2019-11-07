@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Daily Expense Note</string>
+
+    <string-array name="spinner_list">
+        <item>Select Expense Type</item>
+        <item>Electricity Bill</item>
+        <item>Transport Cost</item>
+        <item>Medical Cost</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Others</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
